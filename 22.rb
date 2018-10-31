@@ -1,4 +1,5 @@
 ravin emang sultannn 
+ravin penguasa kediri
 
 x = 50
 u = 40.0
