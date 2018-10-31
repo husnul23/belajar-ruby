@@ -1,3 +1,5 @@
+ravin emang sultannn 
+
 x = 50
 u = 40.0
 
